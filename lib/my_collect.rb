@@ -9,5 +9,3 @@ def my_collect(array)
   end
   collection
 end
-
-my_collect(array) {|name| name.split(" ").first}
